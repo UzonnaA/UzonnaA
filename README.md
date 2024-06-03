@@ -1,5 +1,6 @@
 # Hello, I'm Uzonna 👋
 
+WORK IN PROGRESS
 I'm a junior software developer with a passion for ...
 
 ## 🛠 Skills
@@ -14,7 +15,6 @@ I'm a junior software developer with a passion for ...
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/uzonnaa)
 - Twitter: [@uzonnaa](https://twitter.com/uzonnaa)
 
-![Uzonna's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzonnaa&show_icons=true&theme=radical)
 
 ## 💬 Ask me about...
 Anything related to Java, Python, or data engineering!
