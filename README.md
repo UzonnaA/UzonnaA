@@ -42,10 +42,10 @@ A fullstack web app to help users manage and monitor their job search efficientl
 ## 🛠 Technical Skills
 
 **Languages**  
-Java, JavaScript, TypeScript, Python, C++, SQL, HTML/CSS
+Java, JavaScript, TypeScript, Python, C++
 
 **Frameworks & Tools**  
-Spring Boot, React, Next.js, Docker, PostgreSQL, Git, GitHub Actions, JUnit, Jest, IntelliJ, Visual Studio
+Spring Boot, React, Next.js, Tailwind, Docker, PostgreSQL, Git, GitHub Actions, JUnit, Jest
 
 ---
 
