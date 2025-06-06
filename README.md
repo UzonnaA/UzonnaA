@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Uzonna
 
-I'm a software developer with a focus on building fullstack web applications using modern, production-ready technologies.
+I'm a software developer who enjoys building fullstack web apps with modern tools and clean architecture.
 
-I recently completed a fullstack Job Tracker platform that features authentication, advanced filtering, dashboards, CI/CD pipelines, and a fully Dockerized environment — designed to reflect real-world dev team workflows. I'm passionate about clean, testable code, and I’m actively pursuing opportunities in development and QA where I can contribute to meaningful products.
+I recently completed a fullstack Job Tracker platform with auth, filtering, stats dashboards, and CI/CD. It's built to reflect how real-world teams work. I care about writing clean, testable code and I'm looking for opportunities in development or QA where I can help build great products.
 
 ---
 
@@ -53,5 +53,5 @@ Spring Boot, React, Next.js, Docker, PostgreSQL, Git, GitHub Actions, JUnit, Jes
 
 I'm always open to connecting with developers, recruiters, and anyone working on interesting problems.
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/UzonnaA)
+[LinkedIn](linkedin.com/in/uzonna-alexander) | [GitHub](https://github.com/UzonnaA)
 ****
