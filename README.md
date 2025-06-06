@@ -37,6 +37,9 @@ A fullstack web app to help users manage and monitor their job search efficientl
 - 🏋️ [Gym Membership Tracker CLI (Java + SQL)](https://github.com/UzonnaA/3005_Project)  
   Command-line Java application for managing gym memberships and payments using PostgreSQL
 
+- 🃏 [Card Game Automation Suite (Java + Spring Boot + Selenium)](https://github.com/UzonnaA/Card-Game-Selenium)
+Interactive multiplayer card game with a browser UI and automated end-to-end tests using Selenium WebDriver.
+
 ---
 
 ## 🛠 Technical Skills
