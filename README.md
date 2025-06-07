@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Uzonna
 *(That's You-Zone-Ah)*  
-I'm a software developer who enjoys building fullstack web apps with modern tools and clean architecture.
+I'm a software developer who enjoys building fullstack web apps with modern tools and clean architecture.  
+
+🌐 [Check out my portfolio website](https://uzonnaa.github.io)
 
 I recently completed a fullstack Job Tracker platform with auth, filtering, stats dashboards, and CI/CD. It's built to reflect how real-world teams work. I care about writing clean, testable code and I'm looking for opportunities in development or QA where I can help build great products.
 
