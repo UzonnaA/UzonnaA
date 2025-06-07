@@ -51,9 +51,3 @@ Spring Boot, React, Next.js, Tailwind, Docker, PostgreSQL, Git, GitHub Actions, 
 
 ---
 
-## 📫 Let's Connect
-
-I'm always open to connecting with developers, recruiters, and anyone working on interesting problems.
-
-[LinkedIn](linkedin.com/in/uzonna-alexander) | [GitHub](https://github.com/UzonnaA)
-****
