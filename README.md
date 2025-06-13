@@ -8,18 +8,18 @@ I recently completed a fullstack Job Tracker platform with auth, filtering, stat
 
 ---
 
-## 💼 Featured Project
+## Featured Project
 
-### 🔗 [Job Application Tracker – Live Demo](https://job-tracker-fullstack-rouge.vercel.app)
+### [Job Application Tracker – Live Demo](https://job-tracker-fullstack-rouge.vercel.app)
 
 A fullstack web app to help users manage and monitor their job search efficiently. Built with industry-aligned tools and workflows.
 
-**🔧 Tech Stack:**
+**Tech Stack:**
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Jest
 - **Backend**: Java (Spring Boot), PostgreSQL, JUnit
 - **DevOps**: GitHub Actions (CI), Docker, Render, Railway, Vercel
 
-**🧪 Highlights:**
+**Highlights:**
 - JWT-based authentication
 - Full CRUD for job applications
 - Search/filter by company, status, tags
@@ -31,19 +31,19 @@ A fullstack web app to help users manage and monitor their job search efficientl
 
 ---
 
-## 🧠 Other Projects
+## Other Projects
 
-- 🃏 [Card Game Automation Suite (Java, Spring Boot, JUnit | HTML/CSS/JS, Selenium)](https://github.com/UzonnaA/Card-Game-Selenium)  
+- [Card Game Automation Suite (Java, Spring Boot, JUnit | HTML/CSS/JS, Selenium)](https://github.com/UzonnaA/Card-Game-Selenium)  
   Card game with a browser UI and automated tests using Selenium and JUnit
 
-- 🏋️ [Gym Membership Tracker CLI (Java, SQL)](https://github.com/UzonnaA/3005_Project)  
+- 🏋[Gym Membership Tracker CLI (Java, SQL)](https://github.com/UzonnaA/3005_Project)  
   Command-line Java application for managing gym memberships and payments using PostgreSQL
 
-- 🎮 [3D Horror Game (C++)](https://github.com/UzonnaA/COMP3501-Project)  
+- [3D Horror Game (C++)](https://github.com/UzonnaA/COMP3501-Project)  
   Custom 3D game with camera control, lighting, and animations built in C++ with OpenGL
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Languages**  
 Java, JavaScript, TypeScript, Python, C++
