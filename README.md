@@ -36,7 +36,7 @@ A fullstack web app to help users manage and monitor their job search efficientl
 - [Card Game Automation Suite (Java, Spring Boot, JUnit | HTML/CSS/JS, Selenium)](https://github.com/UzonnaA/Card-Game-Selenium)  
   Card game with a browser UI and automated tests using Selenium and JUnit
 
-- 🏋[Gym Membership Tracker CLI (Java, SQL)](https://github.com/UzonnaA/3005_Project)  
+- [Gym Membership Tracker CLI (Java, SQL)](https://github.com/UzonnaA/3005_Project)  
   Command-line Java application for managing gym memberships and payments using PostgreSQL
 
 - [3D Horror Game (C++)](https://github.com/UzonnaA/COMP3501-Project)  
